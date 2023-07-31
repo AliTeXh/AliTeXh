@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AliTeXh
+- 👋 Hi, I’m @Web Developer
 - 👀 I’m a Laravel developer
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on coding
